@@ -38,8 +38,8 @@ Dataset files: tmdb_5000_movies.csv and tmdb_5000_credits.csv (available from Ka
 
 Installation
 
-Clone this repository:git clone https://github.com/your-username/tmdb-movies-analysis.git
-cd tmdb-movies-analysis
+Clone this repository:git clone https://github.com/swapitsneil/TMDB-Movies-Analysis.git
+cd TMDB-Movies-Analysis
 
 
 Install the required dependencies:pip install -r requirements.txt
